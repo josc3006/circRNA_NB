@@ -9,7 +9,7 @@ The following scripts are available:
 
 3_DEanalysis.R - Differential expression analysis between genes and circRNAs 
 
-4_RBP-mirna_motif.R - circRNA -RBP motif analysis
+4_RBP_motif.R - circRNA -RBP motif analysis
 
 5_tetinductionmycn.R - Basic statistical analysis on the results of the tet-induction experiment
 
