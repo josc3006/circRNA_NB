@@ -1,5 +1,6 @@
 # circRNA_NB
-Code supporting the analysis for Fuchs, et al., Defining the landscape of circular RNAs in neuroblastoma unveils a global suppressive function of MYCN. The code and scripts are written by Filippos Klironomos.
+Code supporting the analysis for Fuchs, et al., Defining the landscape of circular RNAs in neuroblastoma unveils a global suppressive function of MYCN (https://doi.org/10.1038/s41467-023-38747-4, PMID: 37402719).
+The code and scripts are written by Filippos Klironomos.
 
 The following scripts are available:
 
